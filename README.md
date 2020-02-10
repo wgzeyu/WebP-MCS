@@ -1,2 +1,2 @@
-# WebP-Manga-Compression-Script
+# WebP-MangaCompressionScript
 用于批量压缩大量漫画，每个漫画文件夹取一个中间文件为标准按目标文件大小计算质量，同一文件夹内的图片使用相同的质量压缩。使用易语言编写。
